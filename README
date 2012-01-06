@@ -1,0 +1,11 @@
+D-Element is project to include in other projects where creation of dynamic element is taking place. It has easy calling function which has to be called to do the same.
+
+Step 1: Download the project using 
+        git clone git@github.com:neerajkhandelwal/D-Element.git
+
+Step 2: Include the file d-element.js in your file.
+
+Step 3: Syntax to use the function.
+          $('.id').addelement('p',{'class':'paragraph'},'This is a paragraph');
+
+Note: Argument 2 and 3 for addelement method are optional. If not using pass null.
