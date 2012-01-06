@@ -10,18 +10,6 @@
  * Date: Fri Jan 6 14:18:48 2011
 */
 
-/*
- *
- * D-Elements JavaScript Library v1.0
- * Copyright 2011, Neeraj Khandelwal
- * Obtain GPL license
- *
- * Copyright 2011, Neeraj Khandelwal
- * Released under the MIT, BSD, and GPL Licenses.
- *
- * Date: Fri Jan 6 14:18:48 2011
-*/
-
 (function(core) {
 
 	var elementList = null;
