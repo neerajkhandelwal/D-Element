@@ -1,7 +1,7 @@
 D-Element is project to include in other projects where creation of dynamic element is taking place. It has easy calling function which has to be called to do the same.
 
 Step 1: Download the project using 
-        git clone git@github.com:neerajkhandelwal/D-Element.git
+        git clone https://neerajkhandelwal@github.com/neerajkhandelwal/D-Element.git
 
 Step 2: Include the file d-element.js in your file.
 
