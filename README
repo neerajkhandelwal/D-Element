@@ -9,3 +9,4 @@ Step 3: Syntax to use the function.
           $('.id').addelement('p',{'class':'paragraph'},'This is a paragraph');
 
 Note: Argument 2 and 3 for addelement method are optional. If not using pass null.
+Check for errors in console.
