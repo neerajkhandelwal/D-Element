@@ -10,3 +10,7 @@ Step 3: Syntax to use the function.
 
 Note: Argument 2 and 3 for addelement method are optional. If not using pass null.
 Check for errors in console.
+
+Read  
+       http://neerajkhandelwal.blogspot.com/2012/01/javascript-library-for-dynamic-element.html
+for more on it.
